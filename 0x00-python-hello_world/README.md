@@ -2,10 +2,15 @@
 In this project I have learnt and practiced;
  
 How to use the Python interpreter
+
 How to print text and variables using print
+
 How to use strings
+
 What are indexing and slicing in Python
+
 What is the official Python coding style and how to check your code with pycodestyle
+
 Task file description; 
 0.Run Python File: Write a Shell script that runs a Python script.
 The Python file name will be saved in the environment variable $PYFILE
@@ -36,7 +41,7 @@ You are not allowed to use any loops or conditional statements.
 You have to use the variables str1 and str2 in your new line of code
 Your program should be exactly 5 lines long
 
-7. Copy- Cut _ Paste
+7. Copy- Cut _ Paste:
 You are not allowed to use any loops or conditional statements
 Your program should be exactly 8 lines long
 word_first_3 should contain the first 3 letters of the variable word
