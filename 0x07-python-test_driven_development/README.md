@@ -45,10 +45,8 @@ If either of m_a or m_b contains rows of different lengths, a TypeError is raise
 If m_a and m_b cannot be multiplied (ie. row size of m_a does not match column size of m_b), a ValueError is raised with the message m_a and m_b can't be multiplied.
 
 
-101-lazy_matrix_mul.py: Python function that multiplies two matrices using the module NumPy.
+101-lazy_matrix_mul.py: Python function that multiplies two matrices using the module NumPy. Identical in function to 100-matrix_mul.py.
 
-
-Identical in function to 100-matrix_mul.py.
 102-python.c: C function that prints basic information about Python string objects.
 
 Test files:
